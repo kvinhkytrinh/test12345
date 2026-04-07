@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\QLCAPPHATTHUOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|e:\\qlcapphatthuoc\\qlcapphatthuoc\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|solutionrelative:qlcapphatthuoc\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|e:\\qlcapphatthuoc\\qlcapphatthuoc\\frmkedon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|solutionrelative:qlcapphatthuoc\\frmkedon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|e:\\qlcapphatthuoc\\qlcapphatthuoc\\frmkedon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|solutionrelative:qlcapphatthuoc\\frmkedon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|e:\\qlcapphatthuoc\\qlcapphatthuoc\\atabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFDC0F2-2F6A-4D9E-A2D9-9EB7528BA17C}|QLCAPPHATTHUOC\\QLCAPPHATTHUOC.csproj|solutionrelative:qlcapphatthuoc\\atabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "atabase.cs",
+              "DocumentMoniker": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\atabase.cs",
+              "RelativeDocumentMoniker": "QLCAPPHATTHUOC\\atabase.cs",
+              "ToolTip": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\atabase.cs",
+              "RelativeToolTip": "QLCAPPHATTHUOC\\atabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:45:25.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\DBConnection.cs",
+              "RelativeDocumentMoniker": "QLCAPPHATTHUOC\\DBConnection.cs",
+              "ToolTip": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\DBConnection.cs",
+              "RelativeToolTip": "QLCAPPHATTHUOC\\DBConnection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:41:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKeDon.cs",
+              "DocumentMoniker": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\frmKeDon.cs",
+              "RelativeDocumentMoniker": "QLCAPPHATTHUOC\\frmKeDon.cs",
+              "ToolTip": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\frmKeDon.cs",
+              "RelativeToolTip": "QLCAPPHATTHUOC\\frmKeDon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:35:42.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKeDon.cs [Design]",
+              "DocumentMoniker": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\frmKeDon.cs",
+              "RelativeDocumentMoniker": "QLCAPPHATTHUOC\\frmKeDon.cs",
+              "ToolTip": "E:\\QLCAPPHATTHUOC\\QLCAPPHATTHUOC\\frmKeDon.cs [Design]",
+              "RelativeToolTip": "QLCAPPHATTHUOC\\frmKeDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:35:16.718Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 112,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
